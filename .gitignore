@@ -1,0 +1,4 @@
+.venv
+output
+filelist.txt
+*.vpk
