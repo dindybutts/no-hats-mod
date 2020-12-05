@@ -19,7 +19,7 @@ While this was made purely for aesthetic reasons and not for performance reasons
 ## Installing without building
 Head to [here](https://github.com/dindybutts/no-hats-mod/releases/latest) and grab the latest vpk release and then save it to your custom directory.
 
-Or if you're a dork just run the following command (requires jq and wget)
+Or if you're a dork just run the following command (requires `jq`, `wget` and `curl`)
 ```bash
 curl -sL https://api.github.com/repos/dindybutts/no-hats-mod/releases/latest | jq -r '.assets[].browser_download_url' | wget -P $HOME/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf/custom/ -i -
 ```
