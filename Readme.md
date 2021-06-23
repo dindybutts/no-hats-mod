@@ -11,13 +11,13 @@ While this was made purely for aesthetic reasons and not for performance reasons
 
 ## Downsides
 * [Removes sniper backpacks](images/1.png) (spy players beware)
-* Sometimes makes the pyros head invisible when they wear [certain cosmetics](images/2.png) (Just aim for where their head is supposed to be, you'll be grand)
+* Makes the pyros head invisible when they wear [certain cosmetics](images/2.png) (Just aim for where their head is supposed to be, you'll be fine)
 
 ## Preview
 ![example](images/3.png)
 
 ## Installing without building
-Head to [here](https://github.com/dindybutts/no-hats-mod/releases/latest) and grab the latest vpk release and then save it to your custom directory.
+Head to [here](https://github.com/dindybutts/no-hats-mod/releases/latest) and grab the latest vpk release and then save it to `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf`.
 
 Or if you're a dork just run the following command (requires `jq`, `wget` and `curl`)
 ```bash
