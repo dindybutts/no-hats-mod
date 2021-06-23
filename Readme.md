@@ -18,7 +18,7 @@ While this was made purely for aesthetic reasons and not for performance reasons
 
 ## Installing without building
 Head to [here](https://github.com/dindybutts/no-hats-mod/releases/latest) and grab the latest vpk release and then save it to:\
-`~/.local/share/Steam/steamapps/common/Team Fortress 2/tf`.
+`~/.local/share/Steam/steamapps/common/Team Fortress 2/tf`
 
 Or if you're a dork just run the following command (requires `jq`, `wget` and `curl`)
 ```bash
